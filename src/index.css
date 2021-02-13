@@ -33,11 +33,12 @@ h3 {
     }
 }
 
-.book{
-    background:white;
-    border-radius:30px;
-    padding:1rem 2 rem;
+.book {
+    background: white;
+    border-radius: 30px;
+    padding: 1rem 2 rem;
 }
+
 
 .book h4{
     margin-top:0.5rem;
