@@ -42,6 +42,8 @@ function BookList(){
 
 
 const Book = (props) =>{
+  //attribute,eventHandler
+  //onClick,onMouseOver
 
 const {img,title,author }=props;
  
@@ -50,7 +52,6 @@ return (
     <img src={img} alt=""/>
     <h4> {title} </h4>
     <h3> {author} </h3>
-  
   </article>
   );
 }
