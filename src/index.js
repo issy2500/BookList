@@ -34,8 +34,8 @@ function BookList(){
      const {img,title,author}= book;
  return (
    <Book book={book}>
-
-   </Book>
+</Book>
+   
  );
    })}</section>;
   }
